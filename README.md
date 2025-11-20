@@ -1,2 +1,2 @@
 # A Simple Calculator
-Just wrote a simle code in python
+Just wrote a simple code in python
